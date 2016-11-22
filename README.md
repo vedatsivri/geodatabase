@@ -1,8 +1,4 @@
 # geodatabase
-World Cities Database as JSON
-
-
-# geodatabase
 
 World Cities Database as JSON
 
